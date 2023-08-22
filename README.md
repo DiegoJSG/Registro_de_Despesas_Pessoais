@@ -1,4 +1,6 @@
 # Registro de Despesas Pessoais
+> Building a Simple Template of Record of Personal Expenses in SQL.
+
 - ### Descrição em Português:
 
 > É um projeto simples de criação de um sistema de registro de despesas pessoais que permite acompanhar e categorizar suas despesas diárias. Você pode inserir informações sobre as despesas, como a data, o valor gasto, uma breve descrição e a categoria à qual a despesa pertence, como "Alimentação" ou "Transporte". O sistema organiza automaticamente suas despesas por ano, mês e categoria, permitindo que você veja quanto gastou em diferentes áreas ao longo do tempo. Uma consulta de relatório mensal ajuda a visualizar o total de despesas em cada categoria para cada mês.
